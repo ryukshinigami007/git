@@ -9,7 +9,7 @@ int main()
     int key;
     cin >> key;
 
-    int s , e;
+    int s ,e;
     cin >> s >> e ;
     for(int i =s;i<=e;i++)
     {
