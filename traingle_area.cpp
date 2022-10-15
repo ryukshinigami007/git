@@ -5,8 +5,8 @@ Given base(B) and height(H) of a triangle find its area.
 using namespace std;
 int main()
 {
-    int base , height;
+    double base , height;
     cin >> base >> height;
-    int area = (base * height)*0.5;
+    double area = (base * height)*0.5;
     cout << area;
 }
